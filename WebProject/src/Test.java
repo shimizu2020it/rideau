@@ -31,6 +31,7 @@ public class Test extends HttpServlet {
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}//コメント
 	//ccccccccccccccccccccccccccc
+	//こんにちは
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
