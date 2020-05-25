@@ -30,7 +30,8 @@ public class Test extends HttpServlet {
 		// TODO Auto-generated method stub
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}//コメント
-	//e
+	//ccccccccccccccccccccccccccc
+	//こんにちは
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
@@ -39,6 +40,7 @@ public class Test extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 		// aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+		//bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 	}
 
 }
